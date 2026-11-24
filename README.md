@@ -1,25 +1,25 @@
-Ik ben **Lennaert**, student AI & Data Engineer aan HOGENT. Mijn projecten draaien rond de optimalisatie van zowel mens als agent met vaste projectstructuur, reproduceerbare tooling en onderbouwende documentatie.
+I am **Lennaert**, an AI & Data Engineering student at HOGENT. My projects focus on optimizing both people and agents, with a fixed project structure, reproducible tooling, and a well-founded documentation.
 
-Op het moment ben ik aan het werken aan cardine. GymFreak en Caddie staan in de wachtrij. 
+At the moment I am working on cardine. GymFreak and Caddie are in the queue.
 
 ### 🔩 [Cardine](https://github.com/Lennaertds/cardine)
-Het scharnier voor mens en AI-agent in elk project. Geeft een vaste projectstructuur en de toolchain om er meteen in te werken. Twee packages:
+The hinge between people and AI agents in every project. It provides a fixed project structure and the toolchain to start working efficiently right away. Two packages:
 
-| Package | Wat |
+| Package | What |
 |---------|------|
-| **[@lennaertds/cardine-lab](https://github.com/Lennaertds/cardine/tree/main/packages/lab)** ⚙️ | Reproduceerbaar AI-agent-werkstation voor Arch / Hyprland (DSH, Jarvis, bwrap, Zed-config) |
-| **[@lennaertds/cardine-structure](https://github.com/Lennaertds/cardine/tree/main/packages/structure)** 📁 | Projectstandaard — bewezen `kern`-`solo`-`logging`-boom voor ieder project |
+| **[@lennaertds/cardine-lab](https://github.com/Lennaertds/cardine/tree/main/packages/lab)** ⚙️ | Reproducible AI-agent workstation for Arch / Hyprland (DSH, Jarvis, bwrap, Zed config) |
+| **[@lennaertds/cardine-structure](https://github.com/Lennaertds/cardine/tree/main/packages/structure)** 📁 | Project standard — proven `kern`-`solo`-`logging` tree for every project |
 
 ### 💪 [GymFreak](https://github.com/Lennaertds/GymFreak_Public)
-Evidence-based training insights op een echte AI & data stack. Zet trainingsgeschiedenis, slaap, dieet en meer om in inzichten tegenover **geciteerde literatuur**. Alles in één app.
+Evidence-based training insights on a real AI & data stack. Turns training history, sleep, diet, and more into insights against **cited literature**. All in one app.
 
-➡️ **Live op [gymfreak.be](https://gymfreak.be)**
+➡️ **Live at [gymfreak.be](https://gymfreak.be)**
 
 ### ⛳ [Caddie](https://github.com/Lennaertds/Caddie_Public)
-Pocket caddie voor competitieve amateur golfers in België en Nederland. Clubadvies, strokes-gained en skill prep. Draait lokaal; hosting is in progress (zelfde Railway-project als GymFreak).
+Pocket caddie for competitive amateur golfers in Belgium and the Netherlands. Club recommendations, strokes gained, and skill prep. Runs locally; hosting is in progress.
 
-### 🏛️ [Accounting Flow](https://github.com/Lennaertds/Accounting_Flow) _(gearchiveerd)_
-Een ambitieus zero-touch ERP-concept met Peppol-first procurement. Het project is doodgelopen en gearchiveerd, maar de visie leeft verder in latere ontwerpen.
+### 🏛️ [Accounting Flow](https://github.com/Lennaertds/Accounting_Flow) _(archived)_
+An ambitious zero-touch ERP concept with Peppol-first procurement. The project ran aground and has been archived, but the vision lives on in later designs.
 
 <!--
 Profile README — Lennaertds/Lennaertds
